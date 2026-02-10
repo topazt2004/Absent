@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GIT/AbsentProject/Absent/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/GIT/AbsentProject/Absent/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+			]
+		}
+	]
+}
