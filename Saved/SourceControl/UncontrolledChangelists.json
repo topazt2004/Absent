@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/GIT/AbsentProject/Absent/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/GIT/AbsentProject/Absent/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+				"E:/GIT/AbsentProject/Absent/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/GIT/AbsentProject/Absent/Content/UI/UI_Images/Crosshair_Simple.uasset",
+				"E:/GIT/AbsentProject/Absent/Content/UI/WB_InteractDot.uasset",
+				"E:/GIT/AbsentProject/Absent/Content/UI/UI_Images/Simple_Crosshair.uasset",
+				"E:/GIT/AbsentProject/Absent/Content/UI/WB_Stamina.uasset"
 			]
 		}
 	]
